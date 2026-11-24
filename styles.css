@@ -1,0 +1,18 @@
+body {
+font-family: Arial, sans-serif;
+background: #f3f5f7;
+margin: 0;
+padding: 40px;
+}
+.card {
+max-width: 600px;
+margin: auto;
+background: white;
+padding: 40px;
+border-radius: 16px;
+box-shadow: 0 10px 30px rgba(0, 0, 0, 0.10);
+}
+h1 { color: #1d4ed8; }
+h2 { margin-top: 30px; }
+p { line-height: 1.6; }
+.status { margin-top: 30px; font-weight: bold; }
